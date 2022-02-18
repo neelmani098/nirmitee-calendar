@@ -1,0 +1,28 @@
+.appointment{
+    margin-left: 50%;
+   translate: -50%;
+    text-align: center;
+    border: #61dafb solid 2px;
+    background-color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.appointment_button{
+    margin-top: 10px;
+    margin-left: 6%;
+}
+
+.appointment_title input{
+    border-bottom: black solid 2px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.appointment_dateTime{
+    margin-bottom: 10px;
+}
+
+.appointment_dateTime span{
+    margin-right: 10px;
+}
